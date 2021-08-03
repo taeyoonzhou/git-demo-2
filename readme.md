@@ -21,12 +21,12 @@
 
 1-1/2+1/3-1/4+1/5-1/6+1/7+…… 
 
-`Dim i As Integer 
-
-        Dim s As Double  
-              s = 0    
-             For i = 1 To 100         
-              s = s + (-1) ^ (i - 1) / i         Next         
-              MsgBox(s)`
+```
+      Dim i As integer
+      Dim s As Double  
+          s = 0    
+         For i = 1 To 100         
+          s = s + (-1) ^ (i - 1) / i         Next         
+          MsgBox(s) ```
 
 
