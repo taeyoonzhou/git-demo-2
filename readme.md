@@ -27,6 +27,8 @@
           s = 0    
          For i = 1 To 100         
           s = s + (-1) ^ (i - 1) / i         Next         
-          MsgBox(s) ```
+          MsgBox(s) 
+          
+        
 
 
